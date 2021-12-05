@@ -41,4 +41,10 @@ Admin can do following activities:
 •	declare winner and loser along with their points
 •	update team statistics (team and player performance)
 •	update overview at the end of the match
-•	view all the bidders bidding on a particular team and the %age of users supporting a team
+•	view all the bidders bidding on a particular team and the %age of users supporting a team.
+
+Access the dump:
+1.	Create these tables in the database by running the database script provided
+2.	The script also has statements to insert appropriate data into all these tables
+3.	Test the successful execution of the script by selecting some rows from few tables
+
